@@ -1,5 +1,9 @@
 # radiofid-test
 
+## Requiremets
+
+node v20
+
 ## Project Setup
 
 ```sh
